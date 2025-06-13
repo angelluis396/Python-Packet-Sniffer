@@ -1,5 +1,3 @@
-Absolutely! Here's a professional and polished `README.md` for your **Packet Sniffer** project, while preserving its fun and enthusiastic tone:
-
 ---
 
 # 🌐 Packet Sniffer for Network Traffic Analysis 🚨
