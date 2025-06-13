@@ -113,7 +113,7 @@ Captures 200 packets on `eth0`, logs activity, and produces a traffic volume plo
 
 ## 👤 Credits
 
-Built by **\Me..Angel Alicea** as part of my transition into cybersecurity!
+Built by **Me..Angel Alicea** as part of my transition into cybersecurity!
 Inspired by real-world traffic analysis, Wireshark exploration, and a passion for network security.
 Powered by the amazing [`scapy`](https://scapy.net/) and [`matplotlib`](https://matplotlib.org/).
 
